@@ -1,7 +1,7 @@
 # Assignment the First
 
 ## Part 1
-1. 
+1. Be sure to upload your Python script.
 
 | File name | label |
 |---|---|
