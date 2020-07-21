@@ -1,4 +1,4 @@
-# Demultiplexing - Assignment the Second
+# Demultiplexing and Index Swapping - Assignment the Second
 
 An important part of writing code is reviewing code - both your own and other's. In this portion of the assignment, you will be assigned 3 students' algorithms to review. Be sure to evaluate the following points:
 
