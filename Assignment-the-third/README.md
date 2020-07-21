@@ -8,7 +8,7 @@ Write your code to demultiplex the samples. Be sure to:
 - Use unit tests on functions/entire algorithm to ensure it works properly
 - Create a useful report for the end user of your code
 - Use argparse to "generalize" your code
-- Follow the specifications laid out in [Assignment the First](Assignment-the-first) for the code
+- Follow the specifications laid out in [Assignment the First](../Assignment-the-first) for the code
     - Unclear? Ask Leslie
 
 Final work will be submitted on [GitHub](Assignment-the-third]). Make sure your folder is well organized and final output is clearly labeled/summarized (a markdown file would be much appreciated!!). Use your code to demultiplex the samples and report:
