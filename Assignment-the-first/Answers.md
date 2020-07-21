@@ -1,7 +1,7 @@
 # Assignment the First
 
 ## Part 1
-1. 
+1. Be sure to upload your Python script.
 
 | File name | label |
 |---|---|
@@ -18,7 +18,7 @@
 ## Part 2
 1. Define the problem
 2. Describe output
-3. Link to Unit Test files (folder recommneded!)
+3. Upload your [4 input FASTQ files](../TEST-input_FASTQ) and your [4 expected output FASTQ files](../TEST-output_FASTQ).
 4. Pseudocode
 5. High level functions. For each function, be sure to include:
     1. Description/doc string
