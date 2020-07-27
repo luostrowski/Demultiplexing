@@ -49,7 +49,7 @@ Additionally, your algorithm should report the number of read-pairs with properl
 - Determine high level functions
     - Description/doc string – What does this function do?
     - Function headers (name and parameters)
-    - Test examples for individual functions
+    - Test examples for individual functions  <--- I guess I'm having a hard time imagining what you want here?
     - Return statement
 
 Turn in:
