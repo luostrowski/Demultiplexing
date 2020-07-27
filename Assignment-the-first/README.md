@@ -49,7 +49,12 @@ Additionally, your algorithm should report the number of read-pairs with properl
 - Determine high level functions
     - Description/doc string – What does this function do?
     - Function headers (name and parameters)
-    - Test examples for individual functions  <--- I guess I'm having a hard time imagining what you want here?
+    - Test examples for individual functions
+        - Example: If you were writing a the function ```convert_phred(letter)```, a test example could be
+        ```
+        Input: I
+        Expected output: 40
+        ```
     - Return statement
 
 Turn in:
