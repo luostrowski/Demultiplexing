@@ -59,5 +59,5 @@ Additionally, your algorithm should report the number of read-pairs with properl
 
 Turn in:
 
-[Answers to questions](Answers.md), Python script for part 1, plots, and anything outlined in part 2 (NOT CODE!) to [GitHub](.).
+[Answers to questions](Answers.md), Python script for [part 1](https://github.com/Leslie-C/Demultiplexing/tree/master/Assignment-the-first#part-1--quality-score-distribution-per-nucleotide), plots, and anything outlined in part 2 (NOT CODE!) to [GitHub](.).
 
