@@ -1,7 +1,7 @@
 # Demultiplexing
 
 ## [Assignment the First](Assignment-the-first)
-Due Friday, July 30, 2021, 8:00 PM PDT.
+Due Friday, July 30, 2021, 5:00 PM PDT.
 
 ## [Assignment the Second](Assignment-the-second)
 Due on Monday, August 1, 2021, 10:00 AM PDT.
