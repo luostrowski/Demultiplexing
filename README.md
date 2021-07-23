@@ -7,4 +7,4 @@ Due Friday, July 30, 2021, 5:00 PM PDT.
 Due on Monday, August 2, 2021, 10:00 AM PDT.
 
 ## [Assignment the Third](Assignment-the-third)
-Due on Friday, August 13, 2021, 11:59 PM PDT.
+Due on Friday, August 14, 2021, 11:59 PM PDT.
