@@ -25,7 +25,7 @@ You can find a txt file containing these indexes on Talapas.
 1294_S1_L008_R3_001.fastq.gz
 1294_S1_L008_R4_001.fastq.gz
 ```
-in ```/projects/bgmp/shared/2017_sequencing/```
+in ```/projects/bgmp/shared/2017_sequencing/```. DO NOT copy or unzip these data. You may want to check out the [gzip module in python](https://docs.python.org/3/library/gzip.html).
 
 Please fill in your answers on [Answers.md](Answers.md)
 
