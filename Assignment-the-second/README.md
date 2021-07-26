@@ -8,8 +8,8 @@ An important part of writing code is reviewing code - both your own and other's.
 
 Visit Canvas to see your assigned reviewees. You can find your fellow students' repositories at
 
-```https://github.com/2021-BGMP/demultiplexing-<user>```
+```https://github.com/<user>/demultiplex```
 
 **If you created your repo somewhere else, please move it to the above location!!!**
 
-Be sure to leave your feedback on their repositories by creating issues or by commenting. These comments should also be submitted to the Canvas assignment (to make grading easier on Leslie).
+Be sure to leave your feedback on their repositories by creating issues or by commenting. These comments should also be submitted to the Canvas assignment (to make grading easier on us.
