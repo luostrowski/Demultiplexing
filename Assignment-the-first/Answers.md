@@ -10,6 +10,8 @@
 | 1294_S1_L008_R3_001.fastq.gz |  |  |
 | 1294_S1_L008_R4_001.fastq.gz |  |  |
 
+Phred encoding: **YOUR ANSWER HERE**
+
 2. Per-base NT distribution
     1. Use markdown to insert your 4 histograms here.
     2. ```Your answer here```
