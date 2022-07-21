@@ -10,7 +10,7 @@ Write your code to demultiplex the samples. Be sure to:
 - Use argparse to "generalize" your code
 - Be mindful of "simple" things you can do to optimize your code
 - Follow the specifications laid out in [Assignment the First](../Assignment-the-first) for the code
-    - Unclear? Ask Leslie
+    - Unclear? Ask!
 
 Modules that are fair game to import:
 - bioinfo
