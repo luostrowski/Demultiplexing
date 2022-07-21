@@ -3,8 +3,8 @@
 Write your code to demultiplex the samples. Be sure to:
 
 - Incorporate feedback from peer code reviews
-- Utilize appropriate functions
-- Sufficiently comment your code/use docstrings
+- Utilize appropriate functions (perhaps you want to `import bioinfo`???)
+- Sufficiently comment your code/use docstrings/use type annotations on functions
 - Use unit tests on functions/entire algorithm to ensure it works properly
 - Create a useful report for the end user of your code
 - Use argparse to "generalize" your code
