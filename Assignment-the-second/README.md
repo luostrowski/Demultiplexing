@@ -12,4 +12,4 @@ Visit Canvas to see your assigned reviewees. You can find your fellow students' 
 
 **If you created your repo somewhere else, please move it to the above location!!!**
 
-Be sure to leave your feedback on their repositories by creating issues or by commenting. These comments should also be submitted to the Canvas assignment (to make grading easier on us.
+Be sure to leave your feedback on their repositories by creating issues or by commenting. These comments should also be submitted to the Canvas assignment (to make grading easier on us).
