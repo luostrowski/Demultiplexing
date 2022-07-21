@@ -30,7 +30,7 @@ in ```/projects/bgmp/shared/2017_sequencing/```. DO NOT copy or unzip these data
 Please fill in your answers on [Answers.md](Answers.md)
 
 ## Part 1 – Quality Score Distribution per-nucleotide
-1.	Perform some initial data exploration! Record any bash commands you used inside a lab notebook (sumbmit to this repo!).
+1.	Perform some initial data exploration! Record any bash commands you used inside a lab notebook (submit to this repo!).
     1. Determine which files contain the indexes, and which contain the paired end reads containing the biological data of interest. Create a table and label each file with either read1, read2, index1, or index2.
     2. Determine the length of the reads in each file.
     3. Determine the phred encoding for these data.
