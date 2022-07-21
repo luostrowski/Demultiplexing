@@ -8,8 +8,18 @@ Write your code to demultiplex the samples. Be sure to:
 - Use unit tests on functions/entire algorithm to ensure it works properly
 - Create a useful report for the end user of your code
 - Use argparse to "generalize" your code
+- Be mindful of "simple" things you can do to optimize your code
 - Follow the specifications laid out in [Assignment the First](../Assignment-the-first) for the code
     - Unclear? Ask Leslie
+
+Modules that are fair game to import:
+- bioinfo
+- argparse
+- math
+- gzip
+- numpy
+- matplotlib
+- itertools
 
 Final work will be submitted on [GitHub](.). Make sure your folder is well organized and final output is clearly labeled/summarized (a markdown file would be much appreciated!!). Use your code to demultiplex the samples and report:
 - Percentage of reads from each sample
