@@ -10,11 +10,15 @@
 | 1294_S1_L008_R3_001.fastq.gz |  |  |  |
 | 1294_S1_L008_R4_001.fastq.gz |  |  |  |
 
-2. Per-base NT distribution
+2. i. Per-base NT distribution
     1. Use markdown to insert your 4 histograms here.
     2. **YOUR ANSWER HERE**
     3. **YOUR ANSWER HERE**
     
+ii. What is a good quality score cutoff for index reads and biological read pairs to utilize for sample identification and downstream analysis, respectively? Justify your answer.
+
+iii. How many indexes have undetermined (N) base calls? (Utilize your command line tool knowledge. Submit the command(s) you used. CHALLENGE: use a one-line command)
+
 ## Part 2
 1. Define the problem
 2. Describe output
